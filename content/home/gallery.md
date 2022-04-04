@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Blank widget with a Gallery page element.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
@@ -16,4 +16,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="themes" >}} -->
