@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer 2
     company: Dell International Svc Pvt Ltd
     company_url: ''
-    company_logo: org-gc
+    # company_logo: org-x
     location: India
     date_start: '2019-08-15'
     date_end: '2021-04-01'
@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer 1
     company: Dell International Svc Pvt Ltd
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: India
     date_start: '2019-08-15'
     date_end: '2021-03-31'
@@ -48,7 +48,7 @@ experience:
   - title: Big Data Intern
     company: Birlasoft Pvt Ltd
     company_url: ''
-    company_logo: org-x
+    # company_logo: org-x
     location: India
     date_start: '2018-07-31'
     date_end: '2018-05-01'

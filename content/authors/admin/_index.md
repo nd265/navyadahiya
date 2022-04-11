@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Computer Vision
+- Software Engineering
 
 # Education to show in About widget
 education:
@@ -40,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'navyad265@gmail.com'
 
-  display:
-    header: true
+#   display:
+#     header: true
 
 - icon: github
   icon_pack: fab
@@ -51,15 +51,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/navya-dahiya/
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/navya265
+# - icon: kaggle
+#   icon_pack: fab
+#   link: https://www.kaggle.com/navya265
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: 
+  icon_pack: fas
+  link: uploads/ND_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ highlight_name: true
 Navya Dahiya is ------
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/ND_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

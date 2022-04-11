@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -27,4 +27,4 @@ content:
   
 design:
   columns: '2'
----
+--- -->

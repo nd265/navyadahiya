@@ -28,6 +28,9 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 60
-  - name: Contact
-    url: '#contact'
-    weight: 40
+  # - name: Contact
+  #   url: '#contact'
+    # weight: 40
+  - name: CV
+    url: uploads/ND_resume.pdf
+    weight: 70
