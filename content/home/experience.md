@@ -29,12 +29,15 @@ experience:
     location: India
     date_start: '2019-08-15'
     date_end: '2021-04-01'
-    # description: |2-
-    #     Responsibilities include:
+    description: |2-
         
-    #     * Analysing
-    #     * Modelling
-    #     * Deploying
+        
+      * Led a team of 3 members and integrated the tool(QE Assistant) with CI/CD pipeline to determine performance bottlenecks before production
+      stage, which reduced the number of production failures by 15% over the course of 18 months
+      * Mentored a college intern to help her build chatbot for the in-house performance testing tool(QE Assistant)
+    
+
+      
         
   - title: Software Engineer 1
     company: Dell International Svc Pvt Ltd
@@ -43,16 +46,29 @@ experience:
     location: India
     date_start: '2019-08-15'
     date_end: '2021-03-31'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+
+
+      * Designed and developed an in-house performance testing tool(QE Assistant) from scratch that enables QAs to schedule load tests, identifies
+        performance bottlenecks in Dell web applications, shares customized test reports via email and analyses the quality of the test.  
+      * This tool reduced time consumed in operational overhead by 40%. It is used by 65% of engineering projects in Dell
 
   - title: Big Data Intern
     company: Birlasoft Pvt Ltd
     company_url: ''
     # company_logo: org-x
     location: India
-    date_start: '2018-07-31'
-    date_end: '2018-05-01'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2018-05-01'
+    date_end: '2018-07-31'
+    description: |2-
+        
+        
+      
+     
+      * Performed Twitter Sentiment Analysis on FIFA World Cup tweets using Hive, Flume and Python
+      * Built a java library that is integrated in ETL pipelines across the team and is capable of migrating more than 1000 schemas from
+      Oracle DB into a data warehouse (Hive) by bridging the gap between their schemas’ data types
+    
 design:
   columns: '2'
 ---

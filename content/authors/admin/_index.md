@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'navyad265@gmail.com'
+  link: 'mailto:navyad265@gmail.com'
 
 #   display:
 #     header: true
@@ -68,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 
-Navya Dahiya is ------
+Navya Dahiya is a candidate of the Master of Data Science program at The University of British Columbia, Vancouver. She is experienced as a Software engineer and is looking forward to leverage these skills along with data science in the industry to build solutions.  
 
 
 {{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/ND_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
