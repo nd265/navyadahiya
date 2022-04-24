@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: 
   icon_pack: fas
-  link: uploads/ND_resume.pdf
+  link: uploads/Navya_Dahiya_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ highlight_name: true
 Navya Dahiya is a candidate of the Master of Data Science program at The University of British Columbia, Vancouver. She is experienced as a Software engineer and is looking forward to leveraging these skills along with data science in the industry to build solutions.  
 
 
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/ND_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/Navya_Dahiya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
