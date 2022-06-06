@@ -27,8 +27,8 @@ experience:
     company_url: ''
     # company_logo: org-x
     location: India
-    date_start: '2019-08-15'
-    date_end: '2021-04-01'
+    date_start: '2021-04-01'
+    date_end: '2021-09-01'
     description: |2-
         
         
