@@ -19,8 +19,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Machine Learning
+- Deep Learning
 - Computer Vision
+- Data Science
 - Software Engineering
+
 
 # Education to show in About widget
 education:
@@ -68,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Navya Dahiya is a candidate of the Master of Data Science program at The University of British Columbia, Vancouver. She is experienced as a Software engineer and is looking forward to leveraging these skills along with data science in the industry to build solutions.  
+I am a candidate of the Master of Data Science program at University of British Columbia, Vancouver. I am experienced as a Software Engineer and have learnt and implemented Data Science skills during the course of my program. Looking forward to leveraging my diverse skill set in the industry to build solutions.  
 
 
-{{< icon name="download" pack="fas" >}} View my {{< staticref "uploads/Navya_Dahiya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Navya_Dahiya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
