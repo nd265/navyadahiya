@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Machine Learning Engineer, Capstone Project
+    company: Sensing in Biomechanical Processes Lab (SimPlL, UBC)
+    company_url: 'https://simpl.mech.ubc.ca/'
+    # company_logo: org-x
+    location: Vancouver, Canada
+    date_start: '2022-05-01'
+    date_end: '2022-06-30'
+    description: |2-
+        
+        
+      * Designed and developed reproducible machine learning pipeline and modularized scripts to detect head collisions in sports
+      videos using YOLOv5 and Resnet 3D algorithms
+      * This reproducible pipeline saved 60% of the time spent by humans in analyzing the sports videos manually
+
+
+
   - title: Software Engineer 2
     company: Dell International Svc Pvt Ltd
     company_url: ''
