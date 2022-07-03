@@ -9,12 +9,15 @@ superuser: true
 role: Graduate in Data Science
 
 # Organizations/Affiliations to show in About widget
+# organizations:
+# - name: 
+  # url: https://masterdatascience.ubc.ca/programs/vancouver
 organizations:
-- name: University of British Columia
-  url: https://masterdatascience.ubc.ca/
+- name: University of British Columia | Coursework
+  url: https://masterdatascience.ubc.ca/programs/vancouver
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -71,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a candidate of the Master of Data Science program at University of British Columbia, Vancouver. I am experienced as a Software Engineer and have learnt and implemented Data Science skills during the course of my program. Looking forward to leveraging my diverse skill set in the industry to build solutions.  
+Completed my Masters in Data Science from University of British Columbia, Vancouver, where I designed, deployed, containerized various machine learning projects and applied statistical modelling concepts to solve problems in the world of Machine Learning and Data Science. Along with that, I am also an experienced Software Development Engineer. Interested in Machine Learning Engineer, Data scientist opportunities and looking forward to leveraging my diverse skill set to build solutions.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Navya_Dahiya_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
